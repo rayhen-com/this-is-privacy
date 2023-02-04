@@ -109,12 +109,11 @@ img {
     flex-direction: column;
     align-items: center;
     width: 70%;
-    margin: 25px 0px;
+    margin: 75px 0px;
 }
 
 .starter-kit-box-container {
     display: flex;
-    align-items: center;
     gap: 36px;
 
 }
@@ -136,4 +135,31 @@ img {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+}
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+}
+
+.quote-content {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 75px 0px;
+
+}
+
+.quote-text {
+    font-size: 32px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quotee-text {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 24px;
 }
