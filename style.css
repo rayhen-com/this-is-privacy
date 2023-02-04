@@ -213,3 +213,16 @@ img {
     margin-bottom: 0;
     color: #F9FAF8;
 }
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    margin: 25px;
+}
+.copyright-text {
+    color: #E5E7EB;
+}
