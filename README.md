@@ -1,3 +1,3 @@
-# odin-foundations-landing-page
+# this-is-privacy
 
 A basic landing page
