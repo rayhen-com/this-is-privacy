@@ -99,6 +99,7 @@ ul {
 img {
     max-width:100%;
     max-height: 100%;
+    border-radius: 0.75rem;
 }
 
 .starter-kit-container {
@@ -176,7 +177,7 @@ img {
     width: 70%;
     margin: 75px 0px;
     background-color: #3882F6;
-    border-radius: 8px;
+    border-radius: 0.75rem;
     color: #E5E7EB;
     justify-content: space-evenly;
 }
